@@ -1,0 +1,13 @@
+/__pycache__/*
+/.vscode/*
+/input_movie/*
+!/input_movie/.gitkeep
+/output_midi/*
+!/output_midi/.gitkeep
+/log/*
+!/log/.gitkeep
+
+*.csv
+*.mp4
+*.midi
+*.txt
